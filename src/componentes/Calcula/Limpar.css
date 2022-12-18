@@ -1,0 +1,11 @@
+.calcula{
+    background-color: rgb(54, 81, 215);
+    color: aliceblue;
+    width: 170px;
+    height: 80px;
+    margin-left: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+};
